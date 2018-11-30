@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/quacksawbones/biodemo.svg?branch=master)](https://travis-ci.org/quacksawbones/biodemo)
+[![travis](https://travis-ci.org/quacksawbones/biodemo.svg?branch=master)](https://travis-ci.org/quacksawbones/biodemo)[![codecov](https://codecov.io/github/quacksawbones/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/quacksawbones/biodemo)
 
 # Overview 
 
